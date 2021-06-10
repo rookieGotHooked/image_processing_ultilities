@@ -1,2 +1,2 @@
-# opencv_ultilities
-OpenCV functions for image processing - nothing big
+# Image processing ultilities functions
+OpenCV/ PIL/ numpy related functions for different types of image processing and transformations
